@@ -1,4 +1,4 @@
-# **NLW Unite (React Native)**
+# **NLW Pocket Mobile (React Native)**
 
 <!-- ![preview](./.github/preview.png) -->
 
@@ -22,7 +22,7 @@ Projeto construído durante Imersão da NLW Pocket Mobile de React Native da Roc
 
 ## **✨ Como executar**
 
-- **_[README-install](./mobile/README.md)_**
+- **_[README](./mobile/README.md)_**
 
 ## **💛 Contato**
 

@@ -28,6 +28,15 @@ Projeto construído durante Imersão da NLW Pocket Mobile de React Native da Roc
 - **_[Back-end](./api/README.md)_**
 - **_[Front-end](./mobile/README.md)_**
 
+## **💄 Layout**
+
+Para você poder visualizar o layout do projeto é necessário acessar o link abaixo:
+
+- [Layout](https://www.figma.com/community/file/1448070647757721748)
+
+Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
+
+
 ## **💛 Contato**
 
 [<img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About&logoColor=white' alt='Website' height='30'>](https://my-resume-bamarcheti.vercel.app/)

@@ -1,10 +1,10 @@
 # **NLW Pocket Mobile (React Native)**
 
-<!-- ![preview](./.github/preview.png) -->
+[![](./.github/preview.gif)](./.github/preview.gif)
 
 Projeto construído durante Imersão da NLW Pocket Mobile de React Native da Rocketseat com o objetivo de desenvolver um sistema de geolocalização para procurar restaurantes perto da sua região.
 
-[**🔗 Clique aqui para acessar**](https://appetize.io/app/e3fned3uz2ae32jtckgotzfory?device=pixel7&osVersion=13.0)
+[**🔗 Clique aqui para acessar**](https://github.com/bamarcheti/nearby)
 
 ## **🛠 Tecnologias**
 
@@ -20,8 +20,9 @@ Projeto construído durante Imersão da NLW Pocket Mobile de React Native da Roc
 >
 > - axios
 > - bottom-sheet
+> - expo-location
+> - expo-camera
 > - @expo-google-fonts
-> -
 
 ## **✨ Como executar**
 
@@ -35,7 +36,6 @@ Para você poder visualizar o layout do projeto é necessário acessar o link ab
 - [Layout](https://www.figma.com/community/file/1448070647757721748)
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
-
 
 ## **💛 Contato**
 
